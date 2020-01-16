@@ -1,2 +1,2 @@
-# omnistack10-backend
-Backend da semana omnistack 10 da rocketseat
+# devradar
+Projeto resultado da Semana Omnistack #10
